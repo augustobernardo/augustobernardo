@@ -1,4 +1,5 @@
-## Olá, me chamo Augusto Oliveira. Desenvolvedor Back-end e estudante de programação!
+## Olá, me chamo Augusto Oliveira 
+  - Desenvolvedor Back-end e estudante de programação!
   - 💼 Trabalhando e estudando SAP ABAP, SAP UI5 / FIORI & Back-End
 
 <div align="center">
