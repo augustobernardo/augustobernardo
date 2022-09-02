@@ -1,6 +1,6 @@
 ## Olá, me chamo Augusto Oliveira 
   - Desenvolvedor Back-end e estudante de programação!
-  - 💼 Trabalhando e estudando SAP ABAP, SAP UI5 / FIORI & Back-End
+  - 💼 Trabalhando e estudando SAP ABAP, SAP UI5 / FIORI
 
 <div align="center">
   <a href="https://github.com/augustobernardo">
