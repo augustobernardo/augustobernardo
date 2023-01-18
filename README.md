@@ -4,12 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/augustobernardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardo&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact&langs_count=7&theme=dark"/>
+
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=default#gh-light-mode-only)]   (https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
   
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
 <div style="display: inline_block"><br>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
