@@ -3,12 +3,13 @@
   - 💼 Consultor Júnior SAP FIORI e SAP ABAP.
   
 
-<!-- <a href="https://github.com/augustobernardo"> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact&langs_count=7&theme=dark"/> -->
-![AUgusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <!-- <a href="https://github.com/augustobernardo"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark" alt="Augusto's Github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact" alt="Top Langs" />
+ </div>
+<!--![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <div style="display: inline_block"><br>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
