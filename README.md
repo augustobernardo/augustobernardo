@@ -1,11 +1,11 @@
 ## Olá, me chamo Augusto Oliveira 
-  - Desenvolvedor Full Stack e estudante de programação!
+  - Desenvolvedor Back-end e estudante de programação!
   - 💼 Consultor Júnior SAP FIORI e SAP ABAP.
   
 <div align="center">
 <a href="https://github.com/augustobernardo">
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark&include_all_commits=true"/>](https://github.com/anuraghazra/github-readme-stats)
-[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact&langs_count=7&theme=dark"/>]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,5 +22,6 @@
   <a href = "mailto:gutobernardo027@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-bernardo-de-oliveira-a336b4214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+  
+  
   ![Snake animation](https://github.com/augustobernardo/augustobernardo/blob/output/github-contribution-grid-snake.svg)
