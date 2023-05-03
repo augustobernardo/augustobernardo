@@ -3,14 +3,11 @@
   - 💼 Consultor Júnior SAP FIORI e SAP ABAP.
   
 
-<div align="center">
+
   <!-- <a href="https://github.com/augustobernardo"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark" alt="Augusto's Github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact" alt="Top Langs" />
- </div>
-<!--![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-  
+[![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <div style="display: inline_block"><br>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
