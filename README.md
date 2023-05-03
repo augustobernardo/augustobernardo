@@ -2,13 +2,13 @@
   - Desenvolvedor Back-end e estudante de programação!
   - 💼 Consultor Júnior SAP FIORI e SAP ABAP.
   
-<div align="center">
+
 <!-- <a href="https://github.com/augustobernardo"> -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact&langs_count=7&theme=dark"/> -->
-[![Augusto Status](https://github-readme-stats.vercel.app/api/?username=augustobernardo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
+![AUgusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
   
 <div style="display: inline_block"><br>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
