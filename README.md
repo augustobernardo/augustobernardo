@@ -5,8 +5,8 @@
 
 
   <!-- <a href="https://github.com/augustobernardo"> -->
-[![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark)](https://github.com/augustobernardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&theme=dark&layout=compact)](https://github.com/augustobernardo/github-readme-stats)
  
 <div style="display: inline_block"><br>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
