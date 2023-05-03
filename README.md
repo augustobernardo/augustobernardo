@@ -6,7 +6,7 @@
   <a href="https://github.com/augustobernardo">
 
   [![Augusto's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=augustobernardo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/augustobernardo/github-readme-stats#gh-dark-mode-only)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&langs_count=3)](https://github.com/augustobernardo/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardo&langs_count=3)](https://github.com/augustobernardo/github-readme-stats#gh-dark-mode-only)
 </div>
   
   
