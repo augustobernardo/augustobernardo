@@ -8,7 +8,7 @@ I love code!!
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [augustooliv.dev@gmail.com](mailto:augustooliv.dev@gmail.com)
-* 🧠  I'm learning Dart, Flutter, SAP FIORI and SAP ABAP
+* 🧠  I'm learning Dart, Flutter, Kotlin, SAP FIORI and SAP ABAP
 
 ### Skills
 
