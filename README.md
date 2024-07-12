@@ -7,8 +7,8 @@ Software Engineer
 I love code!!
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [augustooliv.dev@gmail.com](mailto:augustooliv.dev@gmail.com)
-* 🧠  I'm learning SAP UI5a, SAP FIORI, SAP ABAP, Kotlin, Flutter and Dart.
+* ✉️  You can contact me at [gutooliveira027@gmail.com](mailto:gutooliveira027@gmail.com)
+* 🧠  I'm learning SAP UI5a, SAP FIORI, SAP ABAP, Kotlin, Flutter and Angular.
 
 ### Skills
 
