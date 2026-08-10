@@ -1,6 +1,6 @@
 Hi 👋 My name is Augusto Oliveira
 =================================
-🌍 I'm based in Brazil<br>🌱 I’m currently learning Angular and C# .NET<br>⚡ I enjoy learning new technologies<br>
+🌍 I'm based in Brazil<br>🌱 I’m currently learning Angular, C# .NET, GoLang and NestJS<br>⚡ I enjoy learning new technologies<br>
 
 
 ## 🌐 Socials:
