@@ -31,6 +31,6 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_ABAP_%2F_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-#### 📫 Contato
+#### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/augusto-bernardo-de-oliveira) · [E-mail](mailto:augustooliv.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/augusto-bernardo-de-oliveira) · [Email](mailto:augustooliv.dev@gmail.com)
