@@ -1,13 +1,13 @@
 ### Hi, I'm Augusto 👋
-=================================
+----------------------
 🌍 Full Stack Developer based in Vila Velha, Brazil<br>
 💼 Building a vehicle inspection platform with Angular, NestJS and Ionic, plus an AI photo validation service (Python, ONNX, AWS Lambda)<br>
 🔐 Bringing security into everyday development: input validation, authentication and secure CI/CD pipelines<br>
 🌱 Currently learning React/Next.js and AppSec (OWASP API Security Top 10)<br>
 📫 Reach me on LinkedIn or at augustooliv.dev@gmail.com<br>
 
-### 🔧 Projetos em destaque
-
+#### 🔧 Featured projects
+| Project | What it is | Stack |
 | --- | --- | --- |
 | [**EconomizaAI**](https://github.com/augustobernardo/economizaAi) | Telegram bot in production that records expenses from text or voice using AI, and tracks credit cards, invoices and installments. CI with CodeQL, gitleaks, Trivy and tests against a real Postgres. | NestJS · PostgreSQL · Gemini · Docker |
 | [**Superheros API**](https://github.com/augustobernardo/superheros-api) | REST API with JWT (access and refresh tokens), token revocation, RBAC, rate limiting and audit logs. | NestJS · PostgreSQL · MongoDB · Docker |
